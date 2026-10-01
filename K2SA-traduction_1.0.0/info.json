@@ -1,0 +1,9 @@
+{
+  "name": "K2SA-traduction",
+  "version": "1.0.0",
+  "title": "Mise à jour des Locales FR",
+  "author": "Kwinten",
+  "factorio_version": "2.1",
+  "description": "Met à jour les textes de localisation FR pour K2SA.",
+  "dependencies": ["base", "? Krastorio2", "? Krastorio2-spaced-out", "? space-age"]
+}
